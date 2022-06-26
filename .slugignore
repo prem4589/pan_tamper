@@ -3,4 +3,4 @@
 *.pdf
 /test
 /spec
-*.md
+/readme.md
